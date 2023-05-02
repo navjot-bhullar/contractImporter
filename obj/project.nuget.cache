@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YYG8JW7fKAw0yFkn+J2N1Ihm3jkOm6elQ61oTevQmdZdGiuiVNeAIN/SyUoe/0B4Mn90K8qwHkAynT+0blKrw==",
+  "success": true,
+  "projectFilePath": "G:\\Contractimport\\ContactImport\\ContactImport\\ContactImport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\gembox.spreadsheet\\49.0.1301\\gembox.spreadsheet.49.0.1301.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\harfbuzzsharp\\2.8.2\\harfbuzzsharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2\\harfbuzzsharp.nativeassets.macos.2.8.2.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2\\harfbuzzsharp.nativeassets.win32.2.8.2.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\DRISH INFOTECH\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
